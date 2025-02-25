@@ -26,7 +26,7 @@ python library to access GPT-4o mini, and vllm 0.6.3.post1 as the python library
 ## Preparation
 ### Installation
 ```command1
-pip install -r requirements.txt
+pip install .
 ```
 
 ### Login to Hugging Face
@@ -35,17 +35,20 @@ huggingface-cli login --token [YOUR_ACCESS_TOKEN]
 ```
 If you have not applied to use Llama-3-8B-Instruct in the Hugging Face, please apply first.
 
+### Add OpenAI API key
+```command3
+export OPENAI_API_KEY=[YOUR_OPENAI_API_KEY]
+```
+
 
 ## Quick Start
 The following command is used to optimize the task descriptions fed into the llama-3-8B-Instruct using EvoPrompt(DE)-OPTS(TS).
-Before running the command, please add your OpenAI API key in the file "expt/script/optimize_prompt_llama/EvoPromptDE-OPTS_TS.sh".
 
 ### Command
 ```run
 cd expt
 bash script/optimize_prompt_llama/EvoPromptDE-OPTS_TS.sh
 ```
-
 
 ## Acknowledgements
 ### Code

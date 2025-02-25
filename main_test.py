@@ -1,12 +1,12 @@
-import popt
 import argparse
 import json
 from pathlib import Path
 
+import popt
+
 parser = argparse.ArgumentParser(description="run test")
 
 parser.add_argument("--config_file")
-parser.add_argument("--api_key")
 parser.add_argument("--seed", type=int)
 parser.add_argument("--test_file")
 parser.add_argument("--final_prompt_file")
@@ -32,14 +32,13 @@ if not output_folder_path.exists():
 
 # test
 popt.test(
-    api_key            =args.api_key,
-    model_task         =config["model_task"],
-    model_task_options =config["model_task_options"],
-    instruction        =final_instr,
-    prompt_template    =final_template,
-    evaluator          =config["evaluator"],
-    test_path          =args.test_file,
-    batch_size         =config["batch_size"],
-    output_folder      =args.output_folder,
-    seed               =args.seed
+    model_task=config["model_task"],
+    model_task_options=config["model_task_options"],
+    instruction=final_instr,
+    prompt_template=final_template,
+    evaluator=config["evaluator"],
+    test_path=args.test_file,
+    batch_size=config["batch_size"],
+    output_folder=args.output_folder,
+    seed=args.seed,
 )

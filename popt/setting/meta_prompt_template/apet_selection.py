@@ -33,5 +33,5 @@ Given above information and instructions, reformulate below prompt using the tec
 meta_prompt_info = {
     "strategy": strategies_list,
     "meta_prompt_sys": meta_prompt_sys,
-    "meta_prompt_template": meta_prompt_template
+    "meta_prompt_template": meta_prompt_template,
 }
