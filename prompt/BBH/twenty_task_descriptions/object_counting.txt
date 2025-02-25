@@ -1,0 +1,20 @@
+Queries that require listing items and requesting the model to tally them.
+Inquiries that involve identifying objects and prompting the model to quantify them.
+Prompts that ask for a count of items and challenge the model to provide the total.
+Requests that entail item enumeration and seek a count from the model.
+Tasks that focus on counting objects and asking the model for the final number.
+Questions centered around item listing and expecting the model to calculate the sum.
+Instructions that involve detailing objects and asking the model to perform a count.
+Prompts that require naming items and inviting the model to give a total count.
+Inquiries that ask for a breakdown of objects and request the model to count them.
+Tasks involving the enumeration of items and soliciting a count from the model.
+Queries that ask for the listing of objects and require the model to compute the quantity.
+Requests that focus on identifying and counting items through the model's response.
+Prompts that involve specifying objects and asking the model for a numerical count.
+Instructions that require counting enumerated objects and asking the model for the number.
+Questions that ask the model to tally the objects presented in the query.
+Requests that involve detailing items and seeking the model's count.
+Inquiries that call for the identification and enumeration of objects for counting.
+Tasks that entail counting listed items and asking the model for the total number.
+Prompts that encourage item enumeration and challenge the model to provide a count.
+Questions that involve enumerating objects and asking the model to count them.

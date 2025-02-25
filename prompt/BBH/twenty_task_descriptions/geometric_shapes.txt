@@ -1,0 +1,20 @@
+Identify geometric figures based on their SVG path representations.
+List the geometric shapes according to their SVG paths.
+Recognize the geometric forms derived from their SVG path data.
+Determine the names of geometric shapes from their SVG path outlines.
+Classify geometric shapes by analyzing their SVG path specifications.
+Specify geometric figures using their corresponding SVG paths.
+Name the geometric shapes represented by the given SVG paths.
+Extract names of geometric figures from SVG path descriptions.
+Designate geometric shapes based on their SVG path formats.
+Match geometric forms with their SVG path illustrations.
+Provide names for geometric shapes illustrated by SVG paths.
+Enumerate geometric shapes that correspond with specific SVG paths.
+Categorize geometric figures from their SVG path details.
+Derive the names of geometric shapes from their SVG path forms.
+Tag geometric shapes according to their SVG path outlines.
+Associate geometric figures with their respective SVG paths.
+Interpret the SVG paths to name the corresponding geometric shapes.
+Relate geometric shapes to their representations in SVG paths.
+Assign names to geometric figures based on their SVG path structures.
+Name geometric shapes from their SVG paths.

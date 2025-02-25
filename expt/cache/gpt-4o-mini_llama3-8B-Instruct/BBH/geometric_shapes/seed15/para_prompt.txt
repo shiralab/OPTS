@@ -1,0 +1,5 @@
+Categorize geometric figures by examining their SVG path descriptions.
+Enumerate the geometric figures based on their SVG path descriptions.
+Identify the geometric shapes represented by their SVG path data.
+Define geometric shapes by providing their respective SVG path data.
+List geometric shapes that are represented by particular SVG paths.

@@ -1,0 +1,39 @@
+{
+    "model_evol": {
+        "type": "openai",
+        "name": "gpt-4o-mini-2024-07-18"
+    },
+    "model_evol_options": {
+        "temperature": 0
+    },
+    "model_evol_template": "default",
+
+    "model_opts": {
+        "type": "openai",
+        "name": "gpt-4o-mini-2024-07-18"
+    },
+    "model_opts_options": {
+        "temperature": 0
+    },
+    "model_opts_template": "default",
+
+    "model_task": {
+        "type": "vllm",
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    "model_task_options": {
+        "max_tokens": 1024,
+        "temperature": 0.0
+    },
+    
+    "evol_algo": "APET",
+    "opts_type": "OPTS_APET",
+    "step_size": null,
+    "pop_size": null,
+    "initial_mode": null,
+    "use_opts": false,
+    "opts_param": null,
+    
+    "evaluator": "BBHeval",
+    "batch_size": 50
+}

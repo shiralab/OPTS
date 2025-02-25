@@ -1,0 +1,5 @@
+Identify the sentence that is intended to convey sarcasm.
+Determine which of the two statements employs sarcasm.
+Determine which of the two statements is expressed with sarcasm.
+Determine which sentence conveys a sarcastic tone.
+Identify the statement that conveys sarcasm among the two.

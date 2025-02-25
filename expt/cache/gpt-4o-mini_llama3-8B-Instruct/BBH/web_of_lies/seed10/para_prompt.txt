@@ -1,0 +1,5 @@
+Assess a boolean function provided within the framework of a randomly created word problem.
+Assess a randomly generated boolean function presented in the form of a word problem.
+Investigate a boolean function that has been randomly created, presented in the form of a word problem.
+Find the result of a boolean function presented in the form of a randomly selected word problem.
+Address a randomly chosen word problem that illustrates a boolean function.

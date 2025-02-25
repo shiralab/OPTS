@@ -1,0 +1,1 @@
+Distinguish deductively valid arguments from formal fallacies.

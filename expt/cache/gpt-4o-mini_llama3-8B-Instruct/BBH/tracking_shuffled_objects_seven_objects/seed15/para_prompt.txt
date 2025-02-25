@@ -1,0 +1,5 @@
+Determine the final positions of a collection of items based on their initial locations and a specified series of swap operations.
+Based on the starting positions of the items and a series of swap commands, determine their final placements.
+Determine the final positions of a group of items given their initial placements and a specified sequence of swaps.
+Given a list of starting positions and a series of swaps, determine the final locations of the items.
+Identify the ultimate configuration of the items after executing the given swaps from their original locations.

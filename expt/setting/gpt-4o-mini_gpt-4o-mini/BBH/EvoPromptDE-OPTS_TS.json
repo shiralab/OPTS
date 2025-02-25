@@ -1,0 +1,55 @@
+{
+    "model_evol": {
+        "type": "openai",
+        "name": "gpt-4o-mini-2024-07-18"
+    },
+    "model_evol_options": {
+        "max_tokens": 2000,
+        "top_p": 1,
+        "n": 1,
+        "frequency_penalty": 0,
+        "presence_penalty": 0,
+        "stream": false,
+        "logprobs": null,
+        "stop": null,
+        "temperature": 0.5
+    },
+    "model_evol_template": "default",
+
+    "model_opts": {
+        "type": "openai",
+        "name": "gpt-4o-mini-2024-07-18"
+    },
+    "model_opts_options": {
+        "max_tokens": 1000,
+        "top_p": 1,
+        "n": 1,
+        "frequency_penalty": 0,
+        "presence_penalty": 0,
+        "stream": false,
+        "logprobs": null,
+        "stop": null,
+        "temperature": 0.5
+    },
+    "model_opts_template": "default",
+
+    "model_task": {
+        "type": "openai",
+        "name": "gpt-4o-mini-2024-07-18"
+    },
+    "model_task_options": {
+        "max_tokens": 1024,
+        "temperature": 0.0
+    },
+    
+    "evol_algo": "EvoPromptDE_OPTS",
+    "opts_type": "OPTS_TS",
+    "step_size": 50,
+    "pop_size": 10,
+    "initial_mode": "para_topk",
+    "use_opts": true,
+    "opts_param": null,
+    
+    "evaluator": "BBHeval",
+    "batch_size": 50
+}

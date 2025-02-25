@@ -1,0 +1,5 @@
+Finish multi-step arithmetic problems.
+Guide yourself through solving a series of arithmetic problems step by step.
+Address complex arithmetic equations that require multiple steps to solve.
+Address intricate mathematical challenges that require several steps to solve.
+Tackle complex arithmetic problems involving multiple steps.

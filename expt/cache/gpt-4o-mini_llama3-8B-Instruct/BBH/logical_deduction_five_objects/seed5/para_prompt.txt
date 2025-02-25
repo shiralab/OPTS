@@ -1,0 +1,5 @@
+A logical puzzle that requires determining the sequence of a set of items.
+A challenge that requires reasoning to determine the sequence of several items.
+A reasoning task that requires determining the sequence of a collection of items.
+A task that utilizes logical reasoning to determine the arrangement of different objects.
+A logical reasoning task aimed at determining the order of a set of items.

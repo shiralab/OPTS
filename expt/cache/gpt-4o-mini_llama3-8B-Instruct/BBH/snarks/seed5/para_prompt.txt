@@ -1,0 +1,5 @@
+Identify which of the two statements conveys sarcasm.
+Determine which of the two statements contains sarcasm.
+Identify the statement that is meant to be sarcastic.
+Determine which of the two statements is expressed with sarcasm.
+Identify the sentence that contains sarcasm.

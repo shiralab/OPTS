@@ -1,0 +1,5 @@
+Distinguish between deductively valid arguments and formal fallacies.
+Analyze deductively valid arguments and compare them to formal fallacies.
+Examine the differences between sound deductive reasoning and formal logical errors.
+Identify sound deductive arguments and distinguish them from erroneous formal fallacies.
+Assess and differentiate between deductively valid arguments and formal fallacies.

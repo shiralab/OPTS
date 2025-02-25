@@ -1,0 +1,13 @@
+{
+    "model_task": {
+        "type": "vllm",
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    "model_task_options": {
+        "max_tokens": 1024,
+        "temperature": 0.0
+    },
+    
+    "evaluator": "BBHeval",
+    "batch_size": 50
+}

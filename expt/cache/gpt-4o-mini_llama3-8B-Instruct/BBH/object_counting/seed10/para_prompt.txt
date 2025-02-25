@@ -1,0 +1,5 @@
+Questions that require recognizing items and asking the model to count them.
+Inquiries that involve listing items and require a total count from the model.
+Inquiries focused on item enumeration that require the model to compute the total.
+Guidelines that require describing items and prompting the model to tally them.
+Activities that involve tallying the items on a list and requesting the model to provide the overall count.

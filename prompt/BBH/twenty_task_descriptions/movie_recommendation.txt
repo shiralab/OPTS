@@ -1,0 +1,20 @@
+Suggest films that are comparable to the provided movie list.
+Offer recommendations for movies that resemble the listed titles.
+Please provide suggestions for films similar to those mentioned.
+Identify movies that share similarities with the given list.
+Can you recommend films that are alike to the specified movies?
+Propose movies that match the characteristics of the provided list.
+List films that are in the same vein as the mentioned movies.
+Find and suggest movies similar to the ones provided.
+Generate a list of movie recommendations based on the given titles.
+Share film suggestions that align with the referenced movie list.
+Recommend films that are in line with the movies listed.
+Give me suggestions for movies that are similar to the ones you listed.
+Curate a selection of films that reflect the themes of the provided movies.
+Provide me with movie recommendations that are akin to the listed titles.
+Recommend titles that evoke the same feeling as the given movie list.
+Suggest similar films to those that have been provided.
+Identify and recommend movies that bear resemblance to the listed films.
+Compile a list of films that are similar to the movies mentioned above.
+Please recommend movies that align with the themes of the given list.
+Recommend movies similar to the given list of movies.

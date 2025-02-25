@@ -1,0 +1,5 @@
+Determine the outcome of a randomly generated Boolean expression.
+Evaluate the outcome of a randomly generated Boolean expression.
+Determine the result of a randomly chosen Boolean expression.
+Determine the outcome of a given Boolean expression.
+Evaluate the result of a randomly selected Boolean expression.

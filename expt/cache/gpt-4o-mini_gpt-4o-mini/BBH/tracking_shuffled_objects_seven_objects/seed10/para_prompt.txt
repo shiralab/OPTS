@@ -1,0 +1,5 @@
+Determine the ending positions of items based on their initial locations and a sequence of exchanges described.
+A task that involves figuring out the end locations of a group of objects based on their starting positions and a series of swap instructions.
+Determine the final locations of a set of items based on their initial positions and a series of swapping commands.
+Determine the ultimate positions of different items given their starting locations and a series of exchanges specified.
+Based on the starting positions of different items and a specified series of exchanges, determine their final locations.

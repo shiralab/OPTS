@@ -1,0 +1,5 @@
+A task that requires following the end locations of a group of objects according to their starting points and a given sequence of exchanges.
+A task where you ascertain the final positions of a collection of objects by considering their initial locations and the given swapping directions.
+A scenario that involves determining the final locations of a group of items after executing a sequence of exchanges from their initial placements.
+A challenge that requires determining the end positions of different objects based on their initial locations and a series of swaps to execute.
+A task that requires determining the final positions of various items according to their initial locations and a defined series of trades.

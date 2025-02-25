@@ -1,0 +1,5 @@
+Correctly complete a Dyck-n sequence.
+Effectively conclude a Dyck-n sequence.
+Properly enclose a Dyck-n word.
+Perform an accurate termination of a Dyck-n expression.
+Thoroughly complete a Dyck-n configuration.

@@ -1,0 +1,5 @@
+Create a list of suggested movies inspired by the provided titles.
+Could you suggest movies that are similar to the ones mentioned?
+Create a list of films that resemble the ones mentioned earlier.
+Suggest films that are similar to the ones provided.
+Provide suggestions for films that are similar to the titles mentioned.

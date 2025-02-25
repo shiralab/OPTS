@@ -1,0 +1,5 @@
+Create a method that determines the final locations of a group of objects, utilizing their starting positions in conjunction with specific swap directives.
+Devise a strategy for determining the final locations of multiple items following a specified sequence of swaps, starting from their initial positions.
+A task that involves figuring out the end locations of a group of objects based on their starting positions and a sequence of swap instructions.
+Create a technique to determine the final locations of several items based on their initial positions and a detailed account of the sequence of swaps.
+Create a method to determine the final positions of multiple objects, considering their initial locations and the specified order of exchanges.

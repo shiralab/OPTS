@@ -1,0 +1,5 @@
+Utilize the given context to determine the correct date.
+Identify the date using the given context.
+Determine the date by using the context as a guide.
+Determine the date based on the context provided.
+Determine the date based on the contextual hints provided.
