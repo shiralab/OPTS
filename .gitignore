@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # DS store
-.DS_Store/
+.DS_Store
