@@ -4,7 +4,7 @@ packages = ["popt"]
 [project]
 name = "OPTS"
 version = "0.1.0"
-requires-python = "==3.10.14"
+requires-python = ">=3.10.14"
 dependencies = [
     "aiohappyeyeballs==2.3.5",
     "aiohttp==3.10.3",
